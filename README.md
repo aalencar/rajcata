@@ -1,1 +1,3 @@
 # rajcata
+
+Pomodoro app
